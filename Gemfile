@@ -73,3 +73,9 @@ group :test do
 end
 
 gem "devise", "~> 4.8"
+
+
+gem 'redis'
+
+# Use hiredis to get better performance than the "redis" gem
+gem 'hiredis'

@@ -1,24 +1,4 @@
-# README
+postgres://real_time_chat_user:AkUXVT5vhCZbliLgLbFhW0zWElNxuSYA@dpg-cdacs9qrrk09hip7b8fg-a/real_time_chat
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+redis://red-cdabmc02i3mnn0s9048g:6379
